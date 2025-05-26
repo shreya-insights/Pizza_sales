@@ -32,9 +32,8 @@ The dataset consists of four main tables:
 
 ## 🧰 Tools Used
 
-- **SQL** – SQLite / MySQL / PostgreSQL
-- **SQL IDE** – DB Browser for SQLite / MySQL Workbench / pgAdmin
-- **(Optional)** – Excel or Google Sheets for visualization
+- **SQL** – MySQL 
+- **SQL IDE** – MySQL Workbench
 
 ---
 
@@ -65,4 +64,6 @@ The dataset consists of four main tables:
 ---
 
 ## 📂 Project Structure
+![image](https://github.com/user-attachments/assets/8adb9afd-cbed-4355-9f91-9d9b79c83fec)
+
 
