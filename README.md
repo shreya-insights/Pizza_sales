@@ -64,6 +64,7 @@ The dataset consists of four main tables:
 ---
 
 ## 📂 Project Structure
-![image](https://github.com/user-attachments/assets/8adb9afd-cbed-4355-9f91-9d9b79c83fec)
+![image](https://github.com/user-attachments/assets/3c70d694-09ac-46a0-a0e4-c2861d5ea6b0)
+
 
 
