@@ -4,6 +4,13 @@ Welcome to the **Pizza Sales Analysis** project! This project explores pizza sal
 
 ---
 
+## 🧰 Tools Used
+
+- **SQL** – MySQL 
+- **SQL IDE** – MySQL Workbench
+
+---
+
 ## 📌 Project Description
 
 This project focuses on analyzing a pizza restaurant’s sales dataset using SQL. The goal is to answer key business questions and gain hands-on experience with SQL using real-world data. It includes basic to advanced query operations involving joins, aggregations, grouping, and time-based analysis.
@@ -27,13 +34,6 @@ The dataset consists of four main tables:
 - Practice data aggregation, joining multiple tables, and time-based grouping.
 - Answer business questions across various levels of complexity.
 - Derive actionable insights for business improvement.
-
----
-
-## 🧰 Tools Used
-
-- **SQL** – MySQL 
-- **SQL IDE** – MySQL Workbench
 
 ---
 
